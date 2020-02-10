@@ -29,6 +29,7 @@ def won?(board)
     end 
   end 
     return FALSE
+<<<<<<< HEAD
 end
 
 def full?(board)
@@ -68,5 +69,9 @@ end
 
 
 
+=======
+
+end
+>>>>>>> 3c15d2d405d5902ef9074ee5dfb1ce10ea3a5f09
 
 
